@@ -1,0 +1,62 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "mengetes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akkun3704/rest-api.git"
+  },
+  "keywords": [
+    "express-uploader",
+    "file-uploader"
+  ],
+  "author": "Akkun3704",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akkun3704/rest-api/issues"
+  },
+  "homepage": "https://github.com/Akkun3704/rest-api#readme",
+  "dependencies": {
+    "amethyste-api": "^1.1.5",
+    "axios": "^0.24.0",
+    "cheerio": "*",
+    "cookie-parser": "*",
+    "cors": "*",
+    "deepai": "^1.0.17",
+    "express": "*",
+    "express-fileupload": "*",
+    "fake-ua": "^1.0.4",
+    "fluent-ffmpeg": "2.1.2",
+    "file-type": "^16.5.3",
+    "form-data": "^4.0.0",
+    "fs": "0.0.2",
+    "g-i-s": "*",
+    "google-it": "*",
+    "hxz-api": "^1.0.1",
+    "image-to-pdf": "^1.0.0",
+    "jimp": "^0.16.1",
+    "jsdom": "^18.1.0",
+    "lowdb": "^3.0.0",
+    "moment-timezone": "^0.5.34",
+    "morgan": "*",
+    "multer": "*",
+    "nekobocc": "^1.1.0",
+    "nhentai-node-api": "*",
+    "normalize-url": "^7.0.2",
+    "path": "*",
+    "pdfkit": "^0.13.0",
+    "puppeteer": "^12.0.1",
+    "removebg-id": "^2.0.1",
+    "request": "^2.88.2",
+    "sagiri": "^3.1.1",
+    "tiktok-scraper": "^1.4.36",
+    "xfarr-api": "^1.0.0",
+    "nhentai-ikyy": "^2.0.1",
+    "yetesearch": "github:Lingz-ui/yetesearch",
+    "yutub-core": "github:Lingz-ui/yutub-core"
+  }
+}
