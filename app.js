@@ -57,7 +57,7 @@ app.get(['/', '/api'], (req, res) => {
 	res.status(200).json({
 		status: true,
 		runtime: clockString(process.uptime()),
-		base_url: "https://rest-api.akkun3704.repl.co/api",
+		owner: "LitRHap",
 		result: {
 			"Play": "/play?query=flos",
 			"Ytplay": "/ytplay?query=https://youtube.com/watch?v=4muYzftomAE",
